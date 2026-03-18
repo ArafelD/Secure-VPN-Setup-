@@ -151,7 +151,7 @@ Set-DNSClientServerAddress -InterfaceAlias "Ethernet" -ServerAddresses ("1.1.1.1
 
 ## 🧠 Arquitetura
 
-
+![Diagrama VPN Profissional](https://raw.githubusercontent.com/ArafelD/Secure-VPN-Setup-/main/AssetsDiagramaVpn.png)
 
 ## 🚧 Problemas Reais Enfrentados
 
